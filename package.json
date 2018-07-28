@@ -1,0 +1,29 @@
+{
+  "name": "next-js-basics",
+  "version": "1.0.0",
+  "description": "Learn and understand the basics of Next JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapil5harma/next-js-basics.git"
+  },
+  "keywords": [
+    "next-js-basics"
+  ],
+  "author": "Kapil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kapil5harma/next-js-basics/issues"
+  },
+  "homepage": "https://github.com/kapil5harma/next-js-basics#readme",
+  "dependencies": {
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
