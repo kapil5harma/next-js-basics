@@ -1,0 +1,1 @@
+This project is created to learn and understand the basics of Next JS - a minimalistic framework for server-rendered React applications.
